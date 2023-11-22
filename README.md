@@ -7,5 +7,5 @@ Unzip the file : tar -xzvf imodule_openssl.tar
 
 Move the Openssl file to :/labtainer/trunk/labs/
 
-Run : labtainer -r 
+Run : labtainer -r openssl 
 

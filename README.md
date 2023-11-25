@@ -1,5 +1,5 @@
 # Imodule
-Imodule of OpenSSL is made by Le Van Kien B19DCAT100
+Imodule of Email Phishing is made by Le Van Kien B19DCAT100
 
 Download from git : git clone https://github.com/lvkien19112001/Imodule
 
@@ -7,12 +7,10 @@ Access the path : cd Imodule
 
 Unzip the file : tar -xzvf imodule.tar 
 
-Move the Openssl file to :/labtainer/trunk/labs/
+Move the Email Phishing file to :/labtainer/trunk/labs/
 
-Run : labtainer -r openssl 
+Run : labtainer -r email_phishing
 
-After checkwork : Move file B19DCAT100.openssl to labtainer_xfer --> openssl.
-
-Gradelab : cd labtainer/instructor/ --> gradelab openssl
+Gradelab : cd labtainer/instructor/ --> gradelab email_phishing
 
 

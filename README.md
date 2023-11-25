@@ -13,6 +13,6 @@ Run : labtainer -r openssl / labtainer -r email_phishjing
 
 After checkwork : Move file B19DCAT100.openssl / B19DCAT100.email_phishing to labtainer_xfer --> openssl / email_phishing. 
 
-Gradelab : cd labtainer-instructor --> gradelab openssl / email_phishing
+Gradelab : cd labtainer/instructor/ --> gradelab openssl / email_phishing
 
 
